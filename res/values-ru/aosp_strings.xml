@@ -40,7 +40,7 @@
     <string name="recents_clear_all_dismiss_all_title">Очистить все</string>
     <string name="recents_clear_all_dismiss_all_summary">Очищать все задачи, в том числе приоритетные</string>
     <string name="recents_show_fullscreen">Полноэкранный</string>
-    <string name="recents_fullscreen_summary">Разрешить Immersive метод для экрана</string>
+    <string name="recents_fullscreen_summary">Закрывает строку состояния в последних приложениях</string>
     
     <!-- STweaks -->
     <string name="stweaks_title">STweaks</string>
